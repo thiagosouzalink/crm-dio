@@ -7,3 +7,4 @@ db.sqlite3
 .*_cache 
 .vscode 
 venv_crm/
+local_settings.py
